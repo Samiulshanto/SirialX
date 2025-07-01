@@ -16,7 +16,7 @@
   </p>
 </div>
 
-![SirialX Screenshot]([https://user-images.githubusercontent.com/8422235/224326571-3375d31d-28b9-4402-9a3b-9a997232e032.png](https://github.com/Samiulshanto/SirialX/blob/main/Screenshot%202025-07-01%20122939.png?raw=true))
+![SirialX Screenshot](https://github.com/Samiulshanto/SirialX/blob/main/Screenshot%202025-07-01%20122939.png)
 *(**Note:** This is a placeholder image. Consider creating a GIF showing SirialX detecting a port, connecting, and restarting a device to showcase its features!)*
 
 ---
