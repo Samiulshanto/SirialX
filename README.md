@@ -2,7 +2,7 @@
 ---
 
 <div align="center">
-  <h1>SirialX - The Ultimate TUI Serial Monitor for USB Microcontrollers</h1>
+  <h1>SirialX - The Ultimate TUI Serial Monitor for Microcontrollers</h1>
   <p>
     <strong>A fast, powerful, and modern terminal interface for debugging your ESP32, Arduino, Raspberry Pi Pico, and other USB serial devices.</strong>
   </p>
