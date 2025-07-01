@@ -2,7 +2,6 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/textualize/textual/main/docs/images/logo.svg" width="200" alt="Textual Logo">
   <h1>SirialX - The Ultimate TUI Serial Monitor for USB Microcontrollers</h1>
   <p>
     <strong>A fast, powerful, and modern terminal interface for debugging your ESP32, Arduino, Raspberry Pi Pico, and other USB serial devices.</strong>
@@ -17,7 +16,7 @@
   </p>
 </div>
 
-![SirialX Screenshot](https://user-images.githubusercontent.com/8422235/224326571-3375d31d-28b9-4402-9a3b-9a997232e032.png)
+![SirialX Screenshot]([https://user-images.githubusercontent.com/8422235/224326571-3375d31d-28b9-4402-9a3b-9a997232e032.png](https://github.com/Samiulshanto/SirialX/blob/main/Screenshot%202025-07-01%20122939.png?raw=true))
 *(**Note:** This is a placeholder image. Consider creating a GIF showing SirialX detecting a port, connecting, and restarting a device to showcase its features!)*
 
 ---
